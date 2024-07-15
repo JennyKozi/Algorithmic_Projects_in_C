@@ -1,1 +1,1 @@
-# C-Projects
+# Algorithmic Projects in C
